@@ -1,5 +1,5 @@
 import tkinter
-from tkinter import Entry, W, ttk
+from tkinter import END, Button, E, Entry, IntVar, Label, StringVar, W, ttk
 
 
 def Convert():
